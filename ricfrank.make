@@ -124,9 +124,9 @@ projects[ricfrank_drupal_profile][download][revision] = "master"
 
 ; jquery
 libraries[jquery][download][type] = "file"
-libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"
+libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"
 libraries[jqueryui][download][type] = "file"
-libraries[jqueryui][download][url] = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"
+libraries[jqueryui][download][url] = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"
 
 ; Modernizr
 libraries[modernizr][download][type] = "file"
